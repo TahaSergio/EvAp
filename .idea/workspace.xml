@@ -42,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/evap/Home.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574100880290</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="This is a test3!">
+      <created>1574101433357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574101433357</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -273,7 +280,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is a test!" />
     <MESSAGE value="This is a test2!" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is a test2!" />
+    <MESSAGE value="This is a test3!" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a test3!" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/google-services.json">
@@ -356,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/evap/Home.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
