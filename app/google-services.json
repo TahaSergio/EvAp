@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60362647855",
+    "firebase_url": "https://myfb-c6a94.firebaseio.com",
+    "project_id": "myfb-c6a94",
+    "storage_bucket": "myfb-c6a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60362647855:android:cb800dec8a747a734999da",
+        "android_client_info": {
+          "package_name": "com.example.evap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60362647855-h38ttq1s69pdcictl57hd5d2icijo1vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evap",
+            "certificate_hash": "e95fc9f925a78b3ab98101a2b824ea93246a1aa0"
+          }
+        },
+        {
+          "client_id": "60362647855-u6r1viruo1iis6fvrhtvc3to9pb6olmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzRrWV6EjYJiAnuIXCDuyVlYtHw5fxfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60362647855-u6r1viruo1iis6fvrhtvc3to9pb6olmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
